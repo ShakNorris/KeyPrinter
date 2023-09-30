@@ -1,0 +1,8 @@
+C:\Users\shako\source\repos\Keys\Keys\bin\Debug\Keys.exe.config
+C:\Users\shako\source\repos\Keys\Keys\bin\Debug\Keys.exe
+C:\Users\shako\source\repos\Keys\Keys\bin\Debug\Keys.pdb
+C:\Users\shako\source\repos\Keys\Keys\obj\Debug\Keys.csproj.AssemblyReference.cache
+C:\Users\shako\source\repos\Keys\Keys\obj\Debug\Keys.csproj.SuggestedBindingRedirects.cache
+C:\Users\shako\source\repos\Keys\Keys\obj\Debug\Keys.csproj.CoreCompileInputs.cache
+C:\Users\shako\source\repos\Keys\Keys\obj\Debug\Keys.exe
+C:\Users\shako\source\repos\Keys\Keys\obj\Debug\Keys.pdb
